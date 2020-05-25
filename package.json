@@ -1,0 +1,26 @@
+{
+  "name": "IMDB-MOVIE-DETAIL-SCRAPPER",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATRI2107/IMDB-MOVIE-DETAIL-SCRAPPER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATRI2107/IMDB-MOVIE-DETAIL-SCRAPPER/issues"
+  },
+  "homepage": "https://github.com/ATRI2107/IMDB-MOVIE-DETAIL-SCRAPPER#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "json2csv": "^5.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
